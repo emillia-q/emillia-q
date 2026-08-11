@@ -1,22 +1,24 @@
-## Hi, I'm Emilia 👩🏻‍💻
-For a long time, I thought my career would be something **sports-related**, but I eventually found my place at the Silesian University of Technology. 
-I'm now in my 3rd year, doing my best to make creative and useful (or sometimes slightly less useful) things.
+# Hi, I'm Emilia 👋 👩🏻‍💻
 
-### About me
-I'm a huge fan of **crime novels** and love the challenge of racing the detective to solve the mystery first. 
-Of course, I'm never working the case alone- I have my own Watson, my cat, who 'helps' me by falling asleep on me the moment I start reading. 🐈
-
-When I'm not solving mysteries, you might find me in the **garage**. It's not rocket science, but I enjoy doing simple things like changing oil and spark plugs or painting brake calipers. 🚗
+For a long time, I thought my career would be something **sports-related**, but I eventually found my place at the Silesian University of Technology. I'm currently in my 3rd year, doing my best to build creative, scalable, and useful (or sometimes slightly less useful) projects.
 
 ---
 
-### 🛠️ My Tech Stack
+### 💡 About Me
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages & Data** | <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/kotlin.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/pandas.png" width="35"/>|
-| **Backend & Testing** | <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="35"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="35"/> |
-| **Databases** | <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/firebase.png" width="35"/>|
-| **Embedded & Design** | <img src="https://img.icons8.com/color/48/000000/arduino.png" width="35"/> <img src="https://cdn.simpleicons.org/platformio/F34B7D" width="35"/> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autodesk-fusion-360-icon.png" width="35"/>|
-| **DevOps & Tools** | <img src="https://img.icons8.com/color/48/000000/docker.png" width="35"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35"/> <img src="https://img.icons8.com/color/48/000000/git.png" width="35"/> <img src="https://img.icons8.com/?size=60&id=D5XsEXNbhkMI&format=png&color=000000" width="35"/> |
-| **IDEs** | <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/visual-studio.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="35"/> |
+- 📚 **Crime Novel Fanatic:** I love the challenge of racing the detective to solve the mystery first.
+- 🐈 **Team Watson:** I'm never working a case alone - my cat acts as my co-investigator, mostly by falling asleep on me the exact moment I open a book.
+- 🚗 **Garage Enthusiast:** When I'm not coding or solving mysteries, you might find me in the garage. It's not rocket science, but I really enjoy simple mechanics like changing oil, spark plugs, or painting brake calipers.
+
+---
+
+### 🚀 Tech Focus & Skills
+
+Currently, my main focus is **Backend Development** built on strong foundations in **Java & Spring Boot**, complemented by modern frontend skills in **React & TypeScript**.
+
+#### 🎯 Primary Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
